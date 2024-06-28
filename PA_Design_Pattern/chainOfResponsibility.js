@@ -1,6 +1,3 @@
-// Each handler in the chain decides either to process the request or 
-// to pass it along the chain to the next handler.
-
 class Dog {
     constructor(name, age) {
         this.name = name;
