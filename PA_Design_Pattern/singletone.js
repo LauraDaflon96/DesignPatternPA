@@ -1,6 +1,3 @@
-//It is one of the most simple design patterns in terms of modeling but on the other hand, 
-// this is one of the most controversial patterns in terms of complexity of usage.
-
 class Singleton {
 
     constructor() {
