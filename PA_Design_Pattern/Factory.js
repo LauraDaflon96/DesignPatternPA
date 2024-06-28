@@ -1,8 +1,3 @@
-// The Factory Method Design Pattern is a creational design pattern that provides an 
-// interface for creating objects in a superclass, allowing subclasses to alter the 
-// type of objects that will be created. It encapsulates object creation logic in a
-//  separate method, promoting loose coupling between the creator and the created objects.
-
 class Developer {
     present() {
         return this.type;
