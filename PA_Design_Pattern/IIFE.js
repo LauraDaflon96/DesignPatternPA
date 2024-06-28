@@ -1,8 +1,3 @@
-// An Immediately Invoked Function Expression is a function expression that is defined
-// and executed immediately after its creation. In simpler terms, it’s a way to encapsulate
-// code within a function and execute it right away.
-
-
 var Calculator = (function() {
     var res = 0
 
